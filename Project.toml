@@ -1,6 +1,6 @@
 name = "FLEXPART_jll"
 uuid = "f469b0c9-c763-5b61-b20e-7fa8370129c5"
-version = "10.4.0+0"
+version = "10.4.0+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

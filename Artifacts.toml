@@ -1,30 +1,30 @@
 [[FLEXPART]]
 arch = "x86_64"
-git-tree-sha1 = "71b7553cfdc27384071fa3ba57a2722f9c396e20"
+git-tree-sha1 = "6a0c0272cbcc3370a501cce29ea7a14375dffd44"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[FLEXPART.download]]
-    sha256 = "6f8241f9ed3e5a9b07f67db1de6114bc7cde713f8f5acc6a59216741713734b9"
-    url = "https://github.com/JuliaBinaryWrappers/FLEXPART_jll.jl/releases/download/FLEXPART-v10.4.0+0/FLEXPART.v10.4.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "e766cb10781fca303477bbbd01fca1671855bdf7e2a9e0aef09c3d7a85e5b97c"
+    url = "https://github.com/JuliaBinaryWrappers/FLEXPART_jll.jl/releases/download/FLEXPART-v10.4.0+1/FLEXPART.v10.4.0.x86_64-linux-gnu-libgfortran3.tar.gz"
 [[FLEXPART]]
 arch = "x86_64"
-git-tree-sha1 = "201bac1415288ac5d2f3d1b74a0aee0d08621f63"
+git-tree-sha1 = "124d70d1241a2eb9ccff2e49779f17cbd718d3bf"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[FLEXPART.download]]
-    sha256 = "6a95234f48763afc17025a8f61f87e85cde0f2283dce149b2a17d1554adde9a5"
-    url = "https://github.com/JuliaBinaryWrappers/FLEXPART_jll.jl/releases/download/FLEXPART-v10.4.0+0/FLEXPART.v10.4.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "8436d34c40742b0fb33074d71364bebc6794e7762bb8be3a77ce3ce2a5daf533"
+    url = "https://github.com/JuliaBinaryWrappers/FLEXPART_jll.jl/releases/download/FLEXPART-v10.4.0+1/FLEXPART.v10.4.0.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[FLEXPART]]
 arch = "x86_64"
-git-tree-sha1 = "c82f452e2c8aaf38aa84aff3230529a05b9cadaf"
+git-tree-sha1 = "58852b9ef6a700e0600c78fb5d86c45db64469b9"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[FLEXPART.download]]
-    sha256 = "3daceebb8b39bc772cf2dbe9cab66f8b13b09c38d056e0a28ba9482eca8c25dd"
-    url = "https://github.com/JuliaBinaryWrappers/FLEXPART_jll.jl/releases/download/FLEXPART-v10.4.0+0/FLEXPART.v10.4.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "01ecb88e63eef8cb19288f38878861e8a0fc2e07c9cafb6a008ce6fd89cffb53"
+    url = "https://github.com/JuliaBinaryWrappers/FLEXPART_jll.jl/releases/download/FLEXPART-v10.4.0+1/FLEXPART.v10.4.0.x86_64-linux-gnu-libgfortran5.tar.gz"
