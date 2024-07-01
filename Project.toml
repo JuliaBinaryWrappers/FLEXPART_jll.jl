@@ -1,12 +1,12 @@
 name = "FLEXPART_jll"
 uuid = "f469b0c9-c763-5b61-b20e-7fa8370129c5"
-version = "10.4.0+1"
+version = "10.4.2+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
-Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
 NetCDFF_jll = "78e728a9-57fe-5d11-897c-5014b89e5f84"
+JasPer_jll = "f6ca3df5-1ae7-521a-b96b-cb83f57f3f1f"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 eccodes_jll = "b04048ba-5ccd-5610-b3f6-85129a548705"
@@ -14,3 +14,8 @@ eccodes_jll = "b04048ba-5ccd-5610-b3f6-85129a548705"
 [compat]
 JLLWrappers = "1.2.0"
 julia = "1.6"
+Libdl = "1"
+NetCDFF_jll = "4.6.1"
+JasPer_jll = "2.0.33"
+Artifacts = "1"
+eccodes_jll = "2.36.0"
