@@ -1,6 +1,6 @@
 name = "FLEXPART_jll"
 uuid = "f469b0c9-c763-5b61-b20e-7fa8370129c5"
-version = "10.4.2+0"
+version = "10.4.2+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -14,8 +14,8 @@ eccodes_jll = "b04048ba-5ccd-5610-b3f6-85129a548705"
 [compat]
 JLLWrappers = "1.2.0"
 julia = "1.6"
-Libdl = "1"
+Libdl = "< 0.0.1, 1"
 NetCDFF_jll = "4.6.1"
 JasPer_jll = "2.0.33"
-Artifacts = "1"
+Artifacts = "< 0.0.1, 1"
 eccodes_jll = "2.36.0"
